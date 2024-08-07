@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.45aa151e.css",
+    "main.js": "/React-portfolio/static/js/main.2fd990b9.js",
+    "static/media/index.png": "/React-portfolio/static/media/index.b1f8a3063d63d0cb7b42.png",
+    "static/media/webpage.jpg": "/React-portfolio/static/media/webpage.a4a89eab17410acad34e.jpg",
+    "static/media/pro.png": "/React-portfolio/static/media/pro.5af0baeaed6d0391d5b0.png",
+    "static/media/todo.jpg": "/React-portfolio/static/media/todo.6b13b78af9e1c3c6311b.jpg",
+    "static/media/calculator.jpg": "/React-portfolio/static/media/calculator.8a65adaf81b0430304ee.jpg",
+    "static/media/weather.jpg": "/React-portfolio/static/media/weather.08474ef435b67c10f166.jpg",
+    "static/media/quiz.jpg": "/React-portfolio/static/media/quiz.5e420b4bd55a349bfd79.jpg",
+    "index.html": "/React-portfolio/index.html",
+    "main.45aa151e.css.map": "/React-portfolio/static/css/main.45aa151e.css.map",
+    "main.2fd990b9.js.map": "/React-portfolio/static/js/main.2fd990b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45aa151e.css",
+    "static/js/main.2fd990b9.js"
+  ]
+}
